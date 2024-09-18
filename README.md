@@ -14,3 +14,8 @@ My name is Nghia. I'm majoring in Data Engineering. I am interested in the follo
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Recommened-System&theme=gruvbox" />
 </a>   
+
+<a href="https://github.com/HuuNghia1406/Data_Warehouse.git">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Data_Warehouse&theme=dark" />
+</a>
