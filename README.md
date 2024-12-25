@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Nghia. I'm majoring in Data Engineering. I am interested in the following topics: Data and Deep Learning.
+My passion is performance. While fixing a problem, why not do it in the most resilient and fastest way possible? Solving a problem is my first love and code is just a way to do that. Solving it while being as correct, extensible, 1 efficient, and yet as simple as possible is even better — and how it should always be done
 <a href="https://github.com/HuuNghia1406/Python-for-Data-Analyst.git">  
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuuNghia1406&repo=Python-for-Data-Analyst&theme=radical" />
 </a>
