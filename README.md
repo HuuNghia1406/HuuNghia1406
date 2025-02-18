@@ -1,6 +1,6 @@
-<a href="#" target="_blank">
+[<a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
+</a>](https://github.com/trungquandev/trungquandev/blob/main/README.md#)
 
 
 ### WELCOME TO MY PAGE 👋👋👋
