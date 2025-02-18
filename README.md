@@ -1,3 +1,8 @@
+<a href="#" target="_blank">
+  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+</a>
+
+
 ### WELCOME TO MY PAGE 👋👋👋
 My passion is performance. While fixing a problem, why not do it in the most resilient and fastest way possible? Solving a problem is my first love and code is just a way to do that. Solving it while being as correct, extensible, 1 efficient, and yet as simple as possible is even better — and how it should always be done
 <a href="https://github.com/HuuNghia1406/Python-for-Data-Analyst.git">  
