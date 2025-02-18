@@ -1,10 +1,6 @@
-[<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>](https://github.com/trungquandev/trungquandev/blob/main/README.md#)
-
-
-### WELCOME TO MY PAGE 👋👋👋
-My passion is performance. While fixing a problem, why not do it in the most resilient and fastest way possible? Solving a problem is my first love and code is just a way to do that. Solving it while being as correct, extensible, 1 efficient, and yet as simple as possible is even better — and how it should always be done
+# 💫 About Me:
+  My passion is performance. While fixing a problem, why not do it in the most resilient and fastest way possible? Solving a problem is my first love and code is just a way to do that. Solving it while being as correct, extensible, 1 efficient, and yet as simple as possible is even better — and how it should always be done
+### Repo
 <a href="https://github.com/HuuNghia1406/Python-for-Data-Analyst.git">  
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuuNghia1406&repo=Python-for-Data-Analyst&theme=radical" />
 </a>
@@ -23,3 +19,27 @@ My passion is performance. While fixing a problem, why not do it in the most res
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Recommend-System&theme=dark" />
 </a>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vo-huu-nghia-681422263/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@71huunghia?lang=vi-VN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vhnghia2002@gmail.com) 
+
+# 💻 Tech Stack:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HuuNghia1406&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HuuNghia1406&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuuNghia1406&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HuuNghia1406&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=HuuNghia1406&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
