@@ -1,8 +1,17 @@
-# 💫 About Me:
-  My passion is performance. While fixing a problem, why not do it in the most resilient and fastest way possible? Solving a problem is my first love and code is just a way to do that. Solving it while being as correct, extensible, 1 efficient, and yet as simple as possible is even better — and how it should always be done
-### Repo
-<a href="https://github.com/HuuNghia1406/Python-for-Data-Analyst.git">  
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuuNghia1406&repo=Python-for-Data-Analyst&theme=radical" />
+## 💫 About Me
+
+BI Analyst with hands-on experience in Power BI, SQL, and data automation.  
+I focus on building reliable, scalable, and business-driven analytics solutions that help stakeholders make faster decisions.
+
+Passionate about transforming raw data into actionable insights through efficient data modeling, Power Query, and DAX.
+
+<a href="https://github.com/HuuNghia1406/HR-Reporting-Automation-Analytics">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=HR-Reporting-Automation-Analytics&theme=dark" />
+</a>
+
+<a href="https://github.com/HuuNghia1406/Python-for-Data-Analyst">
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Python-for-Data-Analyst&theme=radical&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/HuuNghia1406/Data_Mining.git">
