@@ -6,8 +6,8 @@ I focus on building reliable, scalable, and business-driven analytics solutions 
 Passionate about transforming raw data into actionable insights through efficient data modeling, Power Query, and DAX.
 
 <a href="https://github.com/HuuNghia1406/HR-Reporting-Automation-Analytics">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=HR-Reporting-Automation-Analytics&theme=dark" />
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=HR-Reporting-Automation-Analytics&theme=radical&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/HuuNghia1406/Python-for-Data-Analyst">
@@ -15,17 +15,17 @@ Passionate about transforming raw data into actionable insights through efficien
 </a>
 
 <a href="https://github.com/HuuNghia1406/Data_Mining.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Data_Mining&theme=merko" />
 </a>
 
 <a href="https://github.com/HuuNghia1406/Data_Warehouse.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Data_Warehouse&theme=dark" />
 </a>
 
 <a href="https://github.com/HuuNghia1406/Recommend-System.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Recommend-System&theme=dark" />
 </a>
 
