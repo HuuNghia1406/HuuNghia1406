@@ -16,17 +16,17 @@ Passionate about transforming raw data into actionable insights through efficien
 
 <a href="https://github.com/HuuNghia1406/Data_Mining.git">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Data_Mining&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Data-Mining&theme=merko&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/HuuNghia1406/Data_Warehouse.git">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Data_Warehouse&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Data-Warehouse&theme=dark&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/HuuNghia1406/Recommend-System.git">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Recommend-System&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuuNghia1406&repo=Recommend-System&theme=dark&cache_seconds=1800" />
 </a>
 
 ## 🌐 Socials:
